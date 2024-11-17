@@ -1,4 +1,5 @@
 Abstract
+
 The purpose of the Quiz Management System is to automate the existing manual quiz process using computerized tools and comprehensive software. This system fulfills user requirements, enabling the secure storage of valuable data/information for extended periods, with easy access and manipulation. The software and hardware required are readily available and user-friendly.
 
 The Quiz Management System aims to provide an error-free, secure, reliable, and efficient management solution. It reduces the need for manual efforts, allowing users to focus on other critical tasks rather than record-keeping. This project demonstrates how to improve performance and deliver better services to quiz participants. After a quiz is completed, the system automatically calculates and displays results. Teachers control the question bank and schedule quizzes, while the system handles quiz administration and automated grading for multiple-choice questions. Additionally, the project includes an administrative control panel for overseeing the entire system.
@@ -76,3 +77,4 @@ The system has broad applicability, including:
 Use in educational institutions for student assessments.
 Adoption by corporate organizations for employee training and evaluations.
 Expansion into a cloud-based platform for remote accessibility.
+
